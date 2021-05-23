@@ -1,3 +1,3 @@
-# How to import
+## How to import project
 
-I recommend you copy the whole dispo-shocker to your EasyEDA Offline project directory.
+Under the folder `EasyEDA` you'll be able to find a folder called `dispo-shocker`. I recommend you copy that one straight into your EasyEDA offline projects directory. If you are using the online version, you'll have to open the files individually.
