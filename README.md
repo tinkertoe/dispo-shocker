@@ -12,15 +12,15 @@ The microcontroller drives a transistor which drives a relay which in turn opens
 
 Using a Wemos D1 mini enables me to electrecute myself (or friend who of course have given consent) over the internet. A good point to mention that this is...
 
-## DANGEROUS!
+## ⛔ DANGEROUS!
 
-> Do not use this on people with any kind of heart condition or simular things!
+> **Do not use this on people with any kind of heart condition or simular things!**
 
-> Do not use this on old people!
+> **Do not use this on old people!**
 
-> Only shock people that have given consent!
+> **Only shock people that have given consent!**
 
-> I (tinkertoe) will not take liabillity for any inguries!
+> **I (tinkertoe) will not take liabillity for any inguries!**
 
 ## Parts list
 
