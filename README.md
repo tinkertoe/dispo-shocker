@@ -2,11 +2,13 @@
 
 ### Homemade electric shocker, made from a disposable camera.
 
+> **I (tinkertoe) will not take liability for any injuries!**
+
 ⚠ *This repository is mainly concerned with hardware. For examples on writing software for this, check out taetris-stun.*
 
 ## How does work?
 
-This whole thing is based on that **disposable camera flash circuit**. Normally in a disposable camera there'd be a circuit that takes 1.5 V from a AAA battery and boosts it up to around 310V for the integrated flash to use. Instead of attaching a flash, the output goes through a human body.
+This whole thing is based on that **disposable camera flash circuit**. Normally in a disposable camera there'd be a circuit that takes 1.5 V from a AAA battery and boosts it up to around 310V for the integrated flash to use. Instead of attaching a flash, the output goes through a human body. DON'T DISCHARGE A CAPACITOR INTO YOUR BODY! THAT KILLS! REMOVE THE CAPACITOR! BEFORE SNAPPING IT OF, DISCHARGE IT BY SHORTING THE TWO LEADS VIA A SCREW DRIVER WITH A PLASTIC HANDLE!
 
 The microcontroller drives a transistor which drives a relay which in turn opens and closes the connection of the battery to the flash circuit.
 
@@ -19,6 +21,8 @@ Using a Wemos D1 mini enables me to electrocute myself (or friend who of course 
 > **Do not use this on old people!**
 
 > **Only shock people that have given consent!**
+
+> **Remember to remove to capacitor on the flash circut! Do not discharge it into your body or you'll die!**
 
 > **I (tinkertoe) will not take liability for any injuries!**
 
