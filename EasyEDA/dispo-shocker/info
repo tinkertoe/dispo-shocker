@@ -1,0 +1,226 @@
+{
+  "uuid": "0ce98132b2ad57e44c57a0d38af6bdff",
+  "path": "Offline/dispo-shocker",
+  "name": "dispo-shocker",
+  "content": "",
+  "created_at": "2021-05-12 18:25:30",
+  "updated_at": "2021-05-19 18:30:59",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "f4a04f15c03d61e5f62f1382a1cb25cf",
+      "title": "dispo-shocker",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "2c23e56f71674d149ecf094d31ebcb66": 1,
+        "ff2e787a716547cbb0b7ff6d2e11de14": 1,
+        "32bad80e41ec4435a7d5c418425ac608": 1,
+        "1aa9b199ffe14d2b90844a1d7b7baec6": 1,
+        "404aa9221ff94de597b8734806e7c74f": 4,
+        "a9aa2b14f188405792fa87ac344499a4": 2,
+        "d82be09f1ea94cfab97ae804842f956a": 1,
+        "bc7b6a2637864875a8ba750aa935630a": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "KEYSTONE 2460",
+          1,
+          "KEYSTONE 2460-P",
+          "BAT1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "2460",
+            "BOM_Supplier": "Element14",
+            "BOM_Supplier Part": "1702629",
+            "puuid": "4bb8d48da2ac4ab9b4fe30151eced1da",
+            "uuid": "1aa9b199ffe14d2b90844a1d7b7baec6"
+          }
+        ],
+        [
+          "Wemos D1 Mini",
+          1,
+          "WEMOS D1 MINI",
+          "U1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "Wemos D1 mini",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "f097404033c5420f89a7819de1729169",
+            "uuid": "2c23e56f71674d149ecf094d31ebcb66"
+          }
+        ],
+        [
+          "FINDER 36.11.9.005.4011",
+          1,
+          "FINDER 36.11.9.005.4011 PKG",
+          "REL1",
+          {
+            "BOM_Supplier Part": "2311438",
+            "BOM_Supplier": "Element14",
+            "BOM_Manufacturer": "Finder",
+            "BOM_Manufacturer Part": "36.11.9.005.4011",
+            "puuid": "639ce00991084d53a6d0a57fa2edddb5",
+            "uuid": "32bad80e41ec4435a7d5c418425ac608"
+          }
+        ],
+        [
+          "GND",
+          1,
+          "HDR-M-2.54_1X1",
+          "J2",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "1.5V",
+          1,
+          "HDR-M-2.54_1X1",
+          "J1",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "Voltage output",
+          2,
+          "HDR-M-2.54_1X1",
+          "J4,J3",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "Electrodes",
+          1,
+          "HDR-M-2.54_1X2",
+          "J5",
+          {
+            "BOM_Supplier Part": "C124375",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "70aa5812f21f4991bf427395d51849f4",
+            "uuid": "a9aa2b14f188405792fa87ac344499a4"
+          }
+        ],
+        [
+          "Boot Flag",
+          1,
+          "HDR-M-2.54_1X2",
+          "J6",
+          {
+            "BOM_Supplier Part": "C124375",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "70aa5812f21f4991bf427395d51849f4",
+            "uuid": "a9aa2b14f188405792fa87ac344499a4"
+          }
+        ],
+        [
+          "BC33740TA",
+          1,
+          "TO-92-3_L4.8-W3.7-P2.54-L",
+          "Q1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C236949",
+            "BOM_Manufacturer": "ON Semicon",
+            "BOM_Manufacturer Part": "BC33740TA",
+            "puuid": "619489e674074de888fe8dd8f6b9799e",
+            "uuid": "bc7b6a2637864875a8ba750aa935630a"
+          }
+        ],
+        [
+          "5K",
+          1,
+          "RES-TH_BD2.4-L6.3-P10.30-D0.6",
+          "R1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C337156",
+            "BOM_Manufacturer": "FlyWin",
+            "BOM_Manufacturer Part": "MF1/4W ±1% 40K STB5",
+            "puuid": "2915f1f0a54941d7b912decfe617b47f",
+            "uuid": "d82be09f1ea94cfab97ae804842f956a"
+          }
+        ],
+        [
+          "IN4007",
+          1,
+          "IN4007",
+          "D1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "IRFD9120PbF",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "db068d3c577840478be7ae84f8bc4964",
+            "uuid": "ff2e787a716547cbb0b7ff6d2e11de14"
+          }
+        ]
+      ],
+      "updateTime": 1621439536,
+      "createTime": 1620946528,
+      "histories": [],
+      "created_at": "2021-05-14 00:55:28",
+      "updated_at": "2021-05-19 17:52:16"
+    },
+    {
+      "uuid": "72ac3a373b5df53907de8c3d419022e9",
+      "title": "PCB_dispo-shocker",
+      "filename": "PCB_dispo-shocker.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "updateTime": 1621441859,
+      "createTime": 1621439305,
+      "histories": [],
+      "created_at": "2021-05-19 17:48:25",
+      "updated_at": "2021-05-19 18:30:59",
+      "components": {
+        "619489e674074de888fe8dd8f6b9799e": 1,
+        "639ce00991084d53a6d0a57fa2edddb5": 1,
+        "19c77e72422b43b59c26b9fa67af5de4": 4,
+        "70aa5812f21f4991bf427395d51849f4": 2,
+        "f097404033c5420f89a7819de1729169": 1,
+        "2915f1f0a54941d7b912decfe617b47f": 1,
+        "db068d3c577840478be7ae84f8bc4964": 1,
+        "4bb8d48da2ac4ab9b4fe30151eced1da": 1
+      }
+    }
+  ],
+  "sort": [
+    "f4a04f15c03d61e5f62f1382a1cb25cf",
+    "ca2ab7a6e73285344b0fd64ce205dd4e"
+  ],
+  "title": "dispo-shocker",
+  "foldername": "dispo-shocker",
+  "schfilename": "dispo-shocker.json",
+  "schfilemtime": 1621439542877
+}
